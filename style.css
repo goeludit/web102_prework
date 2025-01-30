@@ -20,8 +20,17 @@ body {
 }
 
 .stats-container {
-    display: flex;
-}
+    display: flex; /* Enable Flexbox */
+    align-items: center; /* Align items vertically in the center */
+    justify-content: center; /* Center items horizontally */
+  }
+  
+  /* Add hover effects */
+  .stats-container:hover {
+    cursor: pointer; /* Change the cursor to a pointer */
+    box-shadow: 0 0 30px lightblue; /* Add a blue glow effect */
+  }
+
 
 .stats-card {
     background-color: #a8b0bc;
