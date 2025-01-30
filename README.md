@@ -24,7 +24,7 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented features:
 
 <!-- <img src='https://s13.gifyu.com/images/b2Sbn.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /> -->
-![Alt text](.\assets\GIF\features.gif)
+![Alt text](assets\GIF\features.gif)
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
 <!-- Recommended tools:
